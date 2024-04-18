@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m10np+jP6fzQgycmSpP8dxA/NjBI9Q9fP/HSXIIvovTqxt895If8MQf2ETWWQXrset4Hd40ieQ8tPMDASq45gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berat\\OneDrive\\Masaüstü\\BeratDemirel_215040088_GameProgramming_MidTerm\\BeratDemirel_215040088_GameProgramming_MidTerm\\BeratDemirel_215040088_GameProgramming_MidTerm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\berat\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
